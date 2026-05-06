@@ -9,7 +9,8 @@ langchain-text-splitters
 sentence-transformers
 torch
 torchvision
-chromadb
+protobuf==3.20.3
+chromadb==0.5.5
 rank-bm25
 pypdf
 python-dotenv
